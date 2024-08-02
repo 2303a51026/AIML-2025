@@ -3,7 +3,7 @@
 
 # Artifical Intelligence and Machine Learning Lab Instruction Sheets
 1. [Lab 01](https://github.com/2303a51206/AIML-2025/blob/main/AIML_A1.pdf): Intoducton to Python Libraries-Numpy
-2. [Lab 02](): Intoducton to Python Libraries-Numpy
+2. [Lab 02](https://github.com/2303a51206/AIML-2025/blob/main/AIML_A2.pdf): Intoducton to Python Libraries-Numpy
 3. [Lab 03](): Intoducton to Python Libraries-Numpy
 4. [Lab 04](): Intoducton to Python Libraries-Numpy
 5. [Lab 05](): Intoducton to Python Libraries-Numpy
