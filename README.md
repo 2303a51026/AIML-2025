@@ -14,7 +14,7 @@
 10. [Lab 10](): Intoducton to Python Libraries-Numpy
 
 # Artifical Intelligence and Machine Learning Lab Jupyter Notebooks
-1. [Lab 01](): Intoducton to Python Libraries-Numpy
+1. [Lab 01](https://github.com/2303a51206/AIML-2025/blob/main/Lab01-AIML.ipynb): Intoducton to Python Libraries-Numpy
 2. [Lab 02](): Intoducton to Python Libraries-Numpy
 3. [Lab 03](): Intoducton to Python Libraries-Numpy
 4. [Lab 04](): Intoducton to Python Libraries-Numpy
